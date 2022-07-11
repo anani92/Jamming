@@ -1,7 +1,7 @@
 
 const clientId = "c1a8e9ca9f7b49658efbaeeed207d793";
 let accessToken = "";
-const redirectURI = "https://ephemeral-crostata-0f2de2.netlify.app/";
+const redirectURI = "https://jammmingmusic.netlify.app/";
 
 export const Spotify = {
   getAccessToken() {
